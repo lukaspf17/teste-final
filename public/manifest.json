@@ -1,0 +1,15 @@
+{
+  "short_name": "Healthmed",
+  "name": "Consulta de pacientes",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "225x225",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,17 @@
+div.Lista {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  form {
+    margin-bottom: 21px;
+  }
+  div.lista-content {
+    width: 100%;
+    h3 {
+      color: white;
+      &#no-results-found {
+        text-align: center;
+      }
+    }
+  }
+}
